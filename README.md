@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jashi</h1>
+
+![github-header-image](https://github.com/user-attachments/assets/08469b5a-741e-4423-929d-6e10c79b942c)
+
 <h3 align="center">I am a software development. I am currently studying Computer Science at the *[Instituto de Tecnología II de Chihuahua](http://www.chihuahua2.tecnm.mx)*. I love learning and even more so, putting that knowledge into practice.</h3>
 
 
