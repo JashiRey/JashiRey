@@ -24,7 +24,7 @@ I am a software development. I am currently studying Computer Science at the *[C
 ### ⚙️  GitHub Analytics
 <p>
 <a href="https://github.com/jasielongas777">
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasielongas777&show_icons=true&locale=en&layout=compact"/>
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashirey&show_icons=true&locale=en&layout=compact"/>
 </a>
 </p>
 
